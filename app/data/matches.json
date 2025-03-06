@@ -1,0 +1,100 @@
+{
+    "upcomingMatches": [
+      {
+        "id": 1,
+        "team1": "Chennai Super Kings",
+        "team2": "Mumbai Indians",
+        "date": "2024-01-15",
+        "time": "19:30",
+        "venue": "M. A. Chidambaram Stadium",
+        "headToHead": {
+          "matches": 34,
+          "team1Wins": 14,
+          "team2Wins": 20,
+          "ties": 0
+        }
+      },
+      {
+        "id": 2,
+        "team1": "Royal Challengers Bangalore",
+        "team2": "Kolkata Knight Riders",
+        "date": "2024-01-16",
+        "time": "19:30",
+        "venue": "M. Chinnaswamy Stadium",
+        "headToHead": {
+          "matches": 30,
+          "team1Wins": 14,
+          "team2Wins": 16,
+          "ties": 0
+        }
+      },
+      {
+        "id": 3,
+        "team1": "Delhi Capitals",
+        "team2": "Sunrisers Hyderabad",
+        "date": "2024-01-17",
+        "time": "19:30",
+        "venue": "Arun Jaitley Stadium",
+        "headToHead": {
+          "matches": 22,
+          "team1Wins": 11,
+          "team2Wins": 11,
+          "ties": 0
+        }
+      },
+      {
+        "id": 5,
+        "team1": "Lucknow Super Giants",
+        "team2": "Punjab Kings",
+        "date": "2024-01-19",
+        "time": "19:30",
+        "venue": "BRSABV Ekana Cricket Stadium",
+        "headToHead": {
+          "matches": 4,
+          "team1Wins": 3,
+          "team2Wins": 1,
+          "ties": 0
+        }
+      }
+    ],
+    "headToHeadResults": [
+      {
+        "team1": "Chennai Super Kings",
+        "team2": "Mumbai Indians",
+        "matches": 37,
+        "team1Wins": 17,
+        "team2Wins": 20,
+        "ties": 0
+      },
+      {
+        "team1": "Royal Challengers Bangalore",
+        "team2": "Kolkata Knight Riders",
+        "matches": 34,
+        "team1Wins": 14,
+        "team2Wins": 20,
+        "ties": 0
+      },
+      {
+        "team1": "Delhi Capitals",
+        "team2": "Sunrisers Hyderabad",
+        "matches": 23,
+        "team1Wins": 11,
+        "team2Wins": 12,
+        "ties": 0
+      },{
+        "team1": "Rajasthan Royals",
+        "team2": "Gujarat Titans",
+        "matches": 6,
+        "team1Wins": 5,
+        "team2Wins": 1,
+        "ties": 0
+      },{
+        "team1": "Lucknow Super Giants",
+        "team2": "Punjab Kings",
+        "matches": 4,
+        "team1Wins": 3,
+        "team2Wins": 1,
+        "ties": 0
+      }
+    ]
+  }
